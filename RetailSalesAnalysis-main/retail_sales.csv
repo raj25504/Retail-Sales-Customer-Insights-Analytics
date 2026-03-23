@@ -1,0 +1,9 @@
+OrderID,Product,Quantity,Price,OrderDate,CustomerID
+1,Laptop,2,1000,2025-01-15,101
+2,Smartphone,3,800,2025-01-20,102
+3,Tablet,1,500,2025-02-10,103
+4,Laptop,1,1000,2025-03-05,104
+5,Smartphone,2,800,2025-03-15,105
+6,Tablet,2,500,2025-04-01,106
+7,Laptop,3,1000,2025-05-12,107
+8,Smartphone,2,800,2025-05-20,108
